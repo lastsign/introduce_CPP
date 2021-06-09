@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ptycho/Documents/42cursus/modules/mod7/ex01/iter.hpp
+
+/Users/ptycho/Documents/42cursus/modules/mod7/ex01/main.cpp
+iostream
+-
+iter.hpp
+/Users/ptycho/Documents/42cursus/modules/mod7/ex01/iter.hpp
+

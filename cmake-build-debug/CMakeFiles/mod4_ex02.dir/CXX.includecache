@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ptycho/Documents/42cursus/modules/mod4/ex02/AssaultTerminator.hpp
+ISpaceMarine.hpp
+/Users/ptycho/Documents/42cursus/modules/mod4/ex02/ISpaceMarine.hpp
+iostream
+-
+
+/Users/ptycho/Documents/42cursus/modules/mod4/ex02/ISpaceMarine.hpp
+
+/Users/ptycho/Documents/42cursus/modules/mod4/ex02/ISquad.hpp
+ISpaceMarine.hpp
+/Users/ptycho/Documents/42cursus/modules/mod4/ex02/ISpaceMarine.hpp
+
+/Users/ptycho/Documents/42cursus/modules/mod4/ex02/Squad.hpp
+ostream
+-
+ISquad.hpp
+/Users/ptycho/Documents/42cursus/modules/mod4/ex02/ISquad.hpp
+
+/Users/ptycho/Documents/42cursus/modules/mod4/ex02/TacticalMarine.hpp
+ISpaceMarine.hpp
+/Users/ptycho/Documents/42cursus/modules/mod4/ex02/ISpaceMarine.hpp
+iostream
+-
+
+/Users/ptycho/Documents/42cursus/modules/mod4/ex02/main.cpp
+ISpaceMarine.hpp
+/Users/ptycho/Documents/42cursus/modules/mod4/ex02/ISpaceMarine.hpp
+ISquad.hpp
+/Users/ptycho/Documents/42cursus/modules/mod4/ex02/ISquad.hpp
+TacticalMarine.hpp
+/Users/ptycho/Documents/42cursus/modules/mod4/ex02/TacticalMarine.hpp
+AssaultTerminator.hpp
+/Users/ptycho/Documents/42cursus/modules/mod4/ex02/AssaultTerminator.hpp
+Squad.hpp
+/Users/ptycho/Documents/42cursus/modules/mod4/ex02/Squad.hpp
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ptycho/Documents/42cursus/modules/mod2/ex00/Fixed.hpp
+iostream
+-
+
+/Users/ptycho/Documents/42cursus/modules/mod2/ex00/main.cpp
+Fixed.hpp
+/Users/ptycho/Documents/42cursus/modules/mod2/ex00/Fixed.hpp
+

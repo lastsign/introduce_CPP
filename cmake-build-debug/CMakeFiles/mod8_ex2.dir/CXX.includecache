@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ptycho/Documents/42cursus/modules/mod8/ex02/main.cpp
+mutantstack.hpp
+/Users/ptycho/Documents/42cursus/modules/mod8/ex02/mutantstack.hpp
+
+/Users/ptycho/Documents/42cursus/modules/mod8/ex02/mutantstack.cpp
+mutantstack.hpp
+/Users/ptycho/Documents/42cursus/modules/mod8/ex02/mutantstack.hpp
+
+/Users/ptycho/Documents/42cursus/modules/mod8/ex02/mutantstack.hpp
+stack
+-
+deque
+-
+iostream
+-
+

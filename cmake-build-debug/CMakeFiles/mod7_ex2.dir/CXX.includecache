@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ptycho/Documents/42cursus/modules/mod7/ex02/Array.hpp
+exception
+-
+iostream
+-
+
+/Users/ptycho/Documents/42cursus/modules/mod7/ex02/main.cpp
+Array.hpp
+/Users/ptycho/Documents/42cursus/modules/mod7/ex02/Array.hpp
+

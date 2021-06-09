@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ptycho/Documents/42cursus/modules/mod1/ex06/HumanB.cpp
+Weapon.hpp
+/Users/ptycho/Documents/42cursus/modules/mod1/ex06/Weapon.hpp
+HumanB.hpp
+/Users/ptycho/Documents/42cursus/modules/mod1/ex06/HumanB.hpp
+iostream
+-
+
+/Users/ptycho/Documents/42cursus/modules/mod1/ex06/HumanB.hpp
+Weapon.hpp
+/Users/ptycho/Documents/42cursus/modules/mod1/ex06/Weapon.hpp
+
+/Users/ptycho/Documents/42cursus/modules/mod1/ex06/Weapon.hpp
+string
+-
+

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ptycho/Documents/42cursus/modules/mod3/ex01/FragTrap.cpp
+FragTrap.hpp
+/Users/ptycho/Documents/42cursus/modules/mod3/ex01/FragTrap.hpp
+
+/Users/ptycho/Documents/42cursus/modules/mod3/ex01/FragTrap.hpp
+string
+-
+iostream
+-
+
+/Users/ptycho/Documents/42cursus/modules/mod3/ex01/ScavTrap.cpp
+ScavTrap.hpp
+/Users/ptycho/Documents/42cursus/modules/mod3/ex01/ScavTrap.hpp
+
+/Users/ptycho/Documents/42cursus/modules/mod3/ex01/ScavTrap.hpp
+string
+-
+iostream
+-
+

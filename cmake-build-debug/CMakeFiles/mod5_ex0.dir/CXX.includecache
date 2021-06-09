@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ptycho/Documents/42cursus/modules/mod5/ex00/Bureaucrat.hpp
+string
+-
+iostream
+-
+exception
+-
+
+/Users/ptycho/Documents/42cursus/modules/mod5/ex00/main.cpp
+Bureaucrat.hpp
+/Users/ptycho/Documents/42cursus/modules/mod5/ex00/Bureaucrat.hpp
+

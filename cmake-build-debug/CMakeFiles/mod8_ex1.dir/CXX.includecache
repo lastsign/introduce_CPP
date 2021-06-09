@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ptycho/Documents/42cursus/modules/mod8/ex01/main.cpp
+span.hpp
+/Users/ptycho/Documents/42cursus/modules/mod8/ex01/span.hpp
+
+/Users/ptycho/Documents/42cursus/modules/mod8/ex01/span.hpp
+iostream
+-
+exception
+-
+algorithm
+-
+set
+-
+

@@ -1,0 +1,1530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="modules"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod3_ex00">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod3_ex00" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod3_ex00"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod3_ex00/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod3_ex00" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod3_ex00/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod5_ex0">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod5_ex0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod5_ex0"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod5_ex0/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod5_ex0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod5_ex0/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod7_ex1">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod7_ex1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod7_ex1"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod7_ex1/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod7_ex1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod7_ex1/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod8_ex1">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod8_ex1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod8_ex1"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod8_ex1/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod8_ex1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod8_ex1/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod6_ex2">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod6_ex2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod6_ex2"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod6_ex2/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod6_ex2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod6_ex2/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod6_ex1">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod6_ex1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod6_ex1"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod6_ex1/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod6_ex1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod6_ex1/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod3_ex03">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod3_ex03" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod3_ex03"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod3_ex03/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod3_ex03" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod3_ex03/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod5_ex2">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod5_ex2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod5_ex2"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod5_ex2/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod5_ex2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod5_ex2/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod7_ex0">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod7_ex0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod7_ex0"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod7_ex0/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod7_ex0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod7_ex0/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod8_ex0">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod8_ex0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod8_ex0"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod8_ex0/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod8_ex0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod8_ex0/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod6_ex0">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod6_ex0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod6_ex0"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod6_ex0/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod6_ex0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod6_ex0/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod1_ex07">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod1_ex07" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod1_ex07"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod1_ex07/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod1_ex07" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod1_ex07/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod5_ex1">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod5_ex1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod5_ex1"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod5_ex1/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod5_ex1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod5_ex1/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod4_ex03">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod4_ex03" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod4_ex03"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod4_ex03/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod4_ex03" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod4_ex03/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod4_ex01">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod4_ex01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod4_ex01"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod4_ex01/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod4_ex01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod4_ex01/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod8_ex2">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod8_ex2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod8_ex2"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod8_ex2/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod8_ex2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod8_ex2/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod3_ex01">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod3_ex01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod3_ex01"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod3_ex01/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod3_ex01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod3_ex01/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod5_ex3">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod5_ex3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod5_ex3"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod5_ex3/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod5_ex3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod5_ex3/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod4_ex00">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod4_ex00" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod4_ex00"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod4_ex00/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod4_ex00" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod4_ex00/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod3_ex04">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod3_ex04" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod3_ex04"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod3_ex04/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod3_ex04" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod3_ex04/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod0_ex00">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod0_ex00" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod0_ex00"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod0_ex00/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod0_ex00" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod0_ex00/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod3_ex02">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod3_ex02" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod3_ex02"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod3_ex02/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod3_ex02" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod3_ex02/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod7_ex2">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod7_ex2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod7_ex2"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod7_ex2/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod7_ex2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod7_ex2/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod4_ex02">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod4_ex02" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod4_ex02"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod4_ex02/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod4_ex02" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod4_ex02/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod0_ex01">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod0_ex01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod0_ex01"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod0_ex01/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod0_ex01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod0_ex01/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod02_ex00">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod02_ex00" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod02_ex00"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mod02_ex00/fast">
+				<Option output="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/mod02_ex00" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ptycho/Documents/42cursus/modules/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 mod02_ex00/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/Users/ptycho/Documents/42cursus/modules/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod0/ex00/megaphone.cpp">
+			<Option target="mod0_ex00"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod0/ex01/Contact.cpp">
+			<Option target="mod0_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod0/ex01/Contact.hpp">
+			<Option target="mod0_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod0/ex01/Phonebook.cpp">
+			<Option target="mod0_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod0/ex01/Phonebook.hpp">
+			<Option target="mod0_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod1/ex07/reple.cpp">
+			<Option target="mod1_ex07"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod2/ex00/Fixed.cpp">
+			<Option target="mod02_ex00"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod2/ex00/Fixed.hpp">
+			<Option target="mod02_ex00"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod2/ex00/main.cpp">
+			<Option target="mod02_ex00"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex00/FragTrap.cpp">
+			<Option target="mod3_ex00"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex00/FragTrap.hpp">
+			<Option target="mod3_ex00"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex00/main.cpp">
+			<Option target="mod3_ex00"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex01/FragTrap.cpp">
+			<Option target="mod3_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex01/FragTrap.hpp">
+			<Option target="mod3_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex01/ScavTrap.cpp">
+			<Option target="mod3_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex01/ScavTrap.hpp">
+			<Option target="mod3_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex01/main.cpp">
+			<Option target="mod3_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex02/ClapTrap.cpp">
+			<Option target="mod3_ex02"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex02/ClapTrap.hpp">
+			<Option target="mod3_ex02"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex02/FragTrap.cpp">
+			<Option target="mod3_ex02"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex02/FragTrap.hpp">
+			<Option target="mod3_ex02"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex02/ScavTrap.cpp">
+			<Option target="mod3_ex02"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex02/ScavTrap.hpp">
+			<Option target="mod3_ex02"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex02/main.cpp">
+			<Option target="mod3_ex02"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex03/ClapTrap.cpp">
+			<Option target="mod3_ex03"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex03/ClapTrap.hpp">
+			<Option target="mod3_ex03"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex03/FragTrap.cpp">
+			<Option target="mod3_ex03"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex03/FragTrap.hpp">
+			<Option target="mod3_ex03"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex03/NinjaTrap.cpp">
+			<Option target="mod3_ex03"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex03/NinjaTrap.hpp">
+			<Option target="mod3_ex03"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex03/ScavTrap.cpp">
+			<Option target="mod3_ex03"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex03/ScavTrap.hpp">
+			<Option target="mod3_ex03"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex03/main.cpp">
+			<Option target="mod3_ex03"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex04/ClapTrap.cpp">
+			<Option target="mod3_ex04"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex04/ClapTrap.hpp">
+			<Option target="mod3_ex04"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex04/FragTrap.cpp">
+			<Option target="mod3_ex04"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex04/FragTrap.hpp">
+			<Option target="mod3_ex04"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex04/NinjaTrap.cpp">
+			<Option target="mod3_ex04"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex04/NinjaTrap.hpp">
+			<Option target="mod3_ex04"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex04/ScavTrap.cpp">
+			<Option target="mod3_ex04"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex04/ScavTrap.hpp">
+			<Option target="mod3_ex04"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex04/SuperTrap.cpp">
+			<Option target="mod3_ex04"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex04/SuperTrap.hpp">
+			<Option target="mod3_ex04"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod3/ex04/main.cpp">
+			<Option target="mod3_ex04"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex00/Peon.cpp">
+			<Option target="mod4_ex00"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex00/Peon.hpp">
+			<Option target="mod4_ex00"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex00/Sorcerer.cpp">
+			<Option target="mod4_ex00"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex00/Sorcerer.hpp">
+			<Option target="mod4_ex00"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex00/Victim.cpp">
+			<Option target="mod4_ex00"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex00/Victim.hpp">
+			<Option target="mod4_ex00"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex00/main.cpp">
+			<Option target="mod4_ex00"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex01/AWeapon.cpp">
+			<Option target="mod4_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex01/AWeapon.hpp">
+			<Option target="mod4_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex01/Character.cpp">
+			<Option target="mod4_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex01/Character.hpp">
+			<Option target="mod4_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex01/Enemy.cpp">
+			<Option target="mod4_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex01/Enemy.hpp">
+			<Option target="mod4_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex01/PlasmaRifle.cpp">
+			<Option target="mod4_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex01/PlasmaRifle.hpp">
+			<Option target="mod4_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex01/PowerFist.cpp">
+			<Option target="mod4_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex01/PowerFist.hpp">
+			<Option target="mod4_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex01/RadScorpion.cpp">
+			<Option target="mod4_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex01/RadScorpion.hpp">
+			<Option target="mod4_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex01/SuperMutant.cpp">
+			<Option target="mod4_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex01/SuperMutant.hpp">
+			<Option target="mod4_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex01/main.cpp">
+			<Option target="mod4_ex01"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex02/AssaultTerminator.cpp">
+			<Option target="mod4_ex02"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex02/AssaultTerminator.hpp">
+			<Option target="mod4_ex02"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex02/Squad.cpp">
+			<Option target="mod4_ex02"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex02/Squad.hpp">
+			<Option target="mod4_ex02"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex02/TacticalMarine.cpp">
+			<Option target="mod4_ex02"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex02/TacticalMarine.hpp">
+			<Option target="mod4_ex02"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex02/main.cpp">
+			<Option target="mod4_ex02"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex03/AMateria.cpp">
+			<Option target="mod4_ex03"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex03/AMateria.hpp">
+			<Option target="mod4_ex03"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex03/Character.cpp">
+			<Option target="mod4_ex03"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex03/Character.hpp">
+			<Option target="mod4_ex03"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex03/Cure.cpp">
+			<Option target="mod4_ex03"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex03/Cure.hpp">
+			<Option target="mod4_ex03"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex03/Ice.cpp">
+			<Option target="mod4_ex03"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex03/Ice.hpp">
+			<Option target="mod4_ex03"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex03/MateriaSource.cpp">
+			<Option target="mod4_ex03"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex03/MateriaSource.hpp">
+			<Option target="mod4_ex03"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod4/ex03/main.cpp">
+			<Option target="mod4_ex03"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex00/Bureaucrat.cpp">
+			<Option target="mod5_ex0"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex00/Bureaucrat.hpp">
+			<Option target="mod5_ex0"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex00/main.cpp">
+			<Option target="mod5_ex0"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex01/Bureaucrat.cpp">
+			<Option target="mod5_ex1"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex01/Bureaucrat.hpp">
+			<Option target="mod5_ex1"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex01/Form.cpp">
+			<Option target="mod5_ex1"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex01/Form.hpp">
+			<Option target="mod5_ex1"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex01/main.cpp">
+			<Option target="mod5_ex1"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex02/Bureaucrat.cpp">
+			<Option target="mod5_ex2"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex02/Bureaucrat.hpp">
+			<Option target="mod5_ex2"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex02/Form.cpp">
+			<Option target="mod5_ex2"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex02/Form.hpp">
+			<Option target="mod5_ex2"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex02/PresidentialPardonForm.cpp">
+			<Option target="mod5_ex2"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex02/PresidentialPardonForm.hpp">
+			<Option target="mod5_ex2"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex02/RobotomyRequestForm.cpp">
+			<Option target="mod5_ex2"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex02/RobotomyRequestForm.hpp">
+			<Option target="mod5_ex2"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex02/ShrubberyCreationForm.cpp">
+			<Option target="mod5_ex2"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex02/ShrubberyCreationForm.hpp">
+			<Option target="mod5_ex2"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex02/main.cpp">
+			<Option target="mod5_ex2"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex03/Bureaucrat.cpp">
+			<Option target="mod5_ex3"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex03/Bureaucrat.hpp">
+			<Option target="mod5_ex3"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex03/Form.cpp">
+			<Option target="mod5_ex3"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex03/Form.hpp">
+			<Option target="mod5_ex3"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex03/Intern.cpp">
+			<Option target="mod5_ex3"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex03/Intern.hpp">
+			<Option target="mod5_ex3"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex03/PresidentialPardonForm.cpp">
+			<Option target="mod5_ex3"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex03/PresidentialPardonForm.hpp">
+			<Option target="mod5_ex3"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex03/RobotomyRequestForm.cpp">
+			<Option target="mod5_ex3"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex03/RobotomyRequestForm.hpp">
+			<Option target="mod5_ex3"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex03/ShrubberyCreationForm.cpp">
+			<Option target="mod5_ex3"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex03/ShrubberyCreationForm.hpp">
+			<Option target="mod5_ex3"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod5/ex03/main.cpp">
+			<Option target="mod5_ex3"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod6/ex00/main.cpp">
+			<Option target="mod6_ex0"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod6/ex01/main.cpp">
+			<Option target="mod6_ex1"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod6/ex02/main.cpp">
+			<Option target="mod6_ex2"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod7/ex00/main.cpp">
+			<Option target="mod7_ex0"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod7/ex01/main.cpp">
+			<Option target="mod7_ex1"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod7/ex02/Array.hpp">
+			<Option target="mod7_ex2"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod7/ex02/main.cpp">
+			<Option target="mod7_ex2"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod8/ex00/easyfind.hpp">
+			<Option target="mod8_ex0"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod8/ex00/main.cpp">
+			<Option target="mod8_ex0"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod8/ex01/main.cpp">
+			<Option target="mod8_ex1"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod8/ex01/span.cpp">
+			<Option target="mod8_ex1"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod8/ex01/span.hpp">
+			<Option target="mod8_ex1"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod8/ex02/main.cpp">
+			<Option target="mod8_ex2"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod8/ex02/mutantstack.cpp">
+			<Option target="mod8_ex2"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/mod8/ex02/mutantstack.hpp">
+			<Option target="mod8_ex2"/>
+		</Unit>
+		<Unit filename="/Users/ptycho/Documents/42cursus/modules/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
